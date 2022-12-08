@@ -1,0 +1,15 @@
+C:\Mon_Code\AverageWordLength\obj\Debug\net7.0\AverageWordLength.csproj.AssemblyReference.cache
+C:\Mon_Code\AverageWordLength\obj\Debug\net7.0\AverageWordLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\AverageWordLength\obj\Debug\net7.0\AverageWordLength.AssemblyInfoInputs.cache
+C:\Mon_Code\AverageWordLength\obj\Debug\net7.0\AverageWordLength.AssemblyInfo.cs
+C:\Mon_Code\AverageWordLength\obj\Debug\net7.0\AverageWordLength.csproj.CoreCompileInputs.cache
+C:\Mon_Code\AverageWordLength\bin\Debug\net7.0\AverageWordLength.exe
+C:\Mon_Code\AverageWordLength\bin\Debug\net7.0\AverageWordLength.deps.json
+C:\Mon_Code\AverageWordLength\bin\Debug\net7.0\AverageWordLength.runtimeconfig.json
+C:\Mon_Code\AverageWordLength\bin\Debug\net7.0\AverageWordLength.dll
+C:\Mon_Code\AverageWordLength\bin\Debug\net7.0\AverageWordLength.pdb
+C:\Mon_Code\AverageWordLength\obj\Debug\net7.0\AverageWordLength.dll
+C:\Mon_Code\AverageWordLength\obj\Debug\net7.0\refint\AverageWordLength.dll
+C:\Mon_Code\AverageWordLength\obj\Debug\net7.0\AverageWordLength.pdb
+C:\Mon_Code\AverageWordLength\obj\Debug\net7.0\AverageWordLength.genruntimeconfig.cache
+C:\Mon_Code\AverageWordLength\obj\Debug\net7.0\ref\AverageWordLength.dll
